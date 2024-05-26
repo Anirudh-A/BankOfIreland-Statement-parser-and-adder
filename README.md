@@ -1,3 +1,5 @@
 # BankOfIreland-Statement-parser-and-adder
 
-Get in touch if you want to use this!
+Licence - MIT 
+
+Get in touch if you want to know more!
